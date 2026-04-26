@@ -34,8 +34,6 @@ Minecraft has **two coordinate systems**:
 
 ---
 
----
-
 ## 🚀 Part 2: Learn (^) coordinates
 
 ### Try this:
@@ -50,8 +48,6 @@ Minecraft has **two coordinate systems**:
 * Now turn around and run it again. What changed?
 
 ✍️ Answer:
-
----
 
 ---
 
@@ -87,8 +83,6 @@ Run these commands:
 3. Which one moves up?
 
 ✍️ Answer:
-
----
 
 ---
 
@@ -168,8 +162,6 @@ When would you use each?
 What is happening here?
 
 ✍️ Answer:
-
----
 
 ---
 
